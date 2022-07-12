@@ -210,3 +210,31 @@ font-family: 'Roboto', sans-serif;
 
     color: #FFFFFF;
 }
+
+/* портфолио */
+
+.poster-title {
+font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    /* identical to box height, or 200% */
+
+    letter-spacing: 0.06em;
+
+    color: #212121;
+}
+
+.description-poster {
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.87;
+    /* identical to box height, or 188% */
+
+    letter-spacing: 0.03em;
+
+    color: #757575;
+}
